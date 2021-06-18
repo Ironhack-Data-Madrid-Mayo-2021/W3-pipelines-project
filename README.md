@@ -34,7 +34,6 @@ The technical requirements for this project are as follows:
   - Get data from an API.
     - _Note:_ The API you use may require authentication via token or oAuth.
   - Do web scraping with python `beautifulsoup` module.
-  - **Insert your new information into your MongoDB collection.**
   
 - D) The data you bring in to enrich the dataset must be related to it and complement it! Figure out how it fits together and how you prepare the data of both sources for your report. Some suggestions on how you could achieve this:
   - You have a dataset. Now you can use an API using the data of a column and create a new one with valuable info of your response for each row.
